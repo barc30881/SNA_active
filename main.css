@@ -4051,6 +4051,10 @@ header [class*="col-"],
 /* 	display: block;  */
 	}
 
+	.none{
+		display:none;
+	}
+
 	aside {
 		margin-top: 60px !important;
 	}
