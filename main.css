@@ -4048,7 +4048,7 @@ header [class*="col-"],
 @media screen and (max-width: 767px) {
 	.table_section .row,
   .table_section [class*="col-"] {
-/* 		display: block; */
+	display: none; 
 	}
 
 	aside {
